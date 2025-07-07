@@ -1,1 +1,1 @@
-# reddit-desktop
+## This is an unofficial wrapper around Deepseek
