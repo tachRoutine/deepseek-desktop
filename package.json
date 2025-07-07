@@ -1,8 +1,8 @@
 {
-  "name": "reddit-desktop",
-  "productName": "Reddit Desktop",
+  "name": "deepseek-desktop",
+  "productName": "Deepseek Desktop",
   "version": "1.0.0",
-  "description": "A desktop application for Reddit with notifications and offline support.",
+  "description": "A desktop application for Deepseek with notifications and offline support.",
   "main": "dist/main.js",
   "scripts": {
     "build:ts": "tsc",
@@ -27,8 +27,8 @@
     "is-online": "9.0.1"
   },
   "build": {
-    "appId": "com.reddit.desktop",
-    "productName": "Reddit Desktop",
+    "appId": "com.deepseek.desktop",
+    "productName": "Deepseek Desktop",
     "files": [
       "dist/**/*",
       "assets/**/*",
@@ -53,10 +53,10 @@
       ],
       "icon": "assets/images/mg-icon.png",
       "category": "Utility",
-      "maintainer": "Tachera Sasi <tacherasasi@gmail.com>"
+      "maintainer": "tachRoutine <tacherasasi@gmail.com>"
     }
   },
   "extraMetadata": {
-    "homepage": "https://github.com/Tacherasasi"
+    "homepage": "https://github.com/tachRoutine"
   }
 }
